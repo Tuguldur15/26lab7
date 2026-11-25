@@ -1,6 +1,7 @@
 # Лаборатори №7: Exploratory тест — SBTM session
 
-- **Оюутны нэр:** Tuvshintugs Tuguldur
+- **Оюутны нэр:** T.Tuguldur
+- **Оюутны code** b242270050
 - **Node хувилбар:** v25.8.1
 - **Браузер:** Chrome 130.0 / Safari
 
